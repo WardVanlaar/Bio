@@ -1,0 +1,29 @@
+
+.section {
+    background-color: lemonchiffon;
+}
+
+.headers {
+    color: darkblue;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue
+}
+
+#LinkedIn {
+    background-color: yellow;
+}
+
+#portfolio {
+    background-color: darkorange;
+}
+
+img {
+    width: 25%;
+    height: auto;
+}
